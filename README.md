@@ -2,9 +2,9 @@
 
 Aquí podrás encontrar algunos ejemplos de las tecnologías que he estado usando en los últimos tiempos. Esta web ha sido creada en Abril de 2017 y todavía no he podido recopilar trabajos que tengo por ahí almacenados en backups que aún no he revisado. De todas maneras es un inicio y intentaré recopilar más proyectos en el futuro. El código va a estar almacenado en [Github](https://github.com/MarcosCalvi) para que el que quiera hecharle un ojo pueda.
 
-### Terraform
+### Guitarra.- Presentación 3d
 
-El código del proyecto está alojado en [Github](https://github.com/MarcosCalvi/Terraform)
+El código del proyecto está alojado en [Github](https://github.com/MarcosCalvi/GuitarPresentation)
 
 You can use the [editor on GitHub](https://github.com/MarcosCalvi/marcoscalvi.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
