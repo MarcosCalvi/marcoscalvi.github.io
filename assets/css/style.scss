@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
+section {
+  margin: 16px 0 16px 0;
+}
+
 section #title {
   margin: 0 0 16px 0;
 }
