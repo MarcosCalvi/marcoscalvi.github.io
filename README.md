@@ -9,7 +9,7 @@ Puedes verlo en el explorador en este [enlace](https://marcoscalvi.github.io/Ter
 El código del proyecto está alojado en [Github](https://github.com/MarcosCalvi/Terraform)
 
 ### Guitarra.- Presentación 3d
-
+![terraform](assets/guitar_presentation_01.png)
 Puedes verlo en el explorador en este [enlace](https://marcoscalvi.github.io/GuitarPresentation/)
 
 El código del proyecto está alojado en [Github](https://github.com/MarcosCalvi/GuitarPresentation)
