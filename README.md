@@ -14,16 +14,16 @@ Puedes verlo en el explorador en este [enlace](https://marcoscalvi.github.io/Gui
 
 El código del proyecto está alojado en [Github](https://github.com/MarcosCalvi/GuitarPresentation)
 
-### Conocimientos informáticos
+## Conocimientos informáticos
 
-## Lenguajes de programación: 
+### Lenguajes de programación: 
 Java, Python, Javascript, Html5, Css, Php
-## Bases de datos relacionales
+### Bases de datos relacionales
 MySql, Sqlite, Access
-## 3d
+### 3d
 Blender, blend4web
-## Edición de audio
+### Edición de audio
 Cubase, Nuendo, Audacity, SoundForge, herramientas de producción, vsts, instrumentos virtuales...
 
-### Experiencia
+## Experiencia
 Programación web: varios sitios creados como freelance. Aplicaciones para uso privado para sistemas Windows y Android.  
