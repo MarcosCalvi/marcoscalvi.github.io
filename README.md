@@ -5,7 +5,7 @@ Aquí podrás encontrar algunos ejemplos de las tecnologías que he estado usand
 ### Terraform
 ![terraform](assets/terraform_01.png)
 Terraform es un prototipo de un juego en primera persona de exploración y supervivencia que se desarrolla en Marte. Están implementados los movimientos básicos del personaje. Permite usar el vehiculo y moverse libremente, el escenario está generado usando texturas reales de Marte así cómo mapas de desplazamiento para generar el relieve. 
-Los movimientos son WASD para moverse Espacio para saltar y F para entrar y salir del vehiculo. 
+Los movimientos son WASD para moverse Espacio para saltar y F para entrar y salir del vehiculo. TODO: aún queda mucho por hacer obviamente, pero lo próximo que está por venir es la generación del escombro del suelo con un sistema automático programado dentro de Blender para generar el detalle del escenario.
 NOTA: para probarlo se recomienda usar Google Chrome, en Firefox hay que desctivar en Preferencias>Avanzado>Buscar mientras se escribe para que al moverse no salte la busqueda. No se recomienda Internet Explorer. 
 Puedes verlo en el explorador en este [enlace](https://marcoscalvi.github.io/Terraform/)
 
@@ -13,6 +13,8 @@ El código del proyecto está alojado en [Github](https://github.com/MarcosCalvi
 
 ### Guitarra.- Presentación 3d
 ![terraform](assets/guitar_presentation_01.png)
+Esta presentación es una guitarra eléctrica modelada en Blender, usando Materiales. Se maneja con el ratón o usando las teclas WASD o clickando en los objetos.
+TODO: Colocar el resto de las explicaciones de las partes de la guitarra. 
 Puedes verlo en el explorador en este [enlace](https://marcoscalvi.github.io/GuitarPresentation/)
 
 El código del proyecto está alojado en [Github](https://github.com/MarcosCalvi/GuitarPresentation)
