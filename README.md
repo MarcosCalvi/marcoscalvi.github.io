@@ -5,6 +5,7 @@ Aquí podrás encontrar algunos ejemplos de las tecnologías que he estado usand
 ### Terraform
 ![terraform](assets/terraform_01.png)
 Terraform es un prototipo de un juego en primera persona de exploración y supervivencia que se desarrolla en Marte. Están implementados los movimientos básicos del personaje, de momento solo en primera persona. 
+Los movimientos son WASD para moverse Espacio para saltar y F para entrar y salir del vehiculo. 
 NOTA: para probarlo se recomienda usar Google Chrome, en Firefox hay que desctivar en Preferencias>Avanzado>Buscar mientras se escribe para que al moverse no salte la busqueda. No se recomienda Internet Explorer. 
 Puedes verlo en el explorador en este [enlace](https://marcoscalvi.github.io/Terraform/)
 
