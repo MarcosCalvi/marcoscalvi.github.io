@@ -31,7 +31,7 @@ Blender, blend4web
 Cubase, Nuendo, Audacity, SoundForge, herramientas de producción, vsts, instrumentos virtuales...
 
 ## Experiencia
-· Programación web: varios sitios creados como freelance. Aplicaciones para uso privado para sistemas Windows y Android.
-· Programación de videojuegos: varios prototipos de juegos principalmente FPS, manejo de físicas, desencadenadores, eventos, modelado y animación de personajes y niveles, armaduras, animaciones, generación de los escenarios programaticamente, etc. 
-· Programación de aplicaciones: aplicaciones de gestión de base de datos con interfaz gráfica de usuario, Java, Sql, aplicaciones móviles Android, cloud computing, etc...
-· Producción musical: grabación de audio y producción musical, varios discos publicados en más de 25 años de experiencia.  
+- Programación web: varios sitios creados como freelance. Aplicaciones para uso privado para sistemas Windows y Android.
+- Programación de videojuegos: varios prototipos de juegos principalmente FPS, manejo de físicas, desencadenadores, eventos, modelado y animación de personajes y niveles, armaduras, animaciones, generación de los escenarios programaticamente, etc. 
+- Programación de aplicaciones: aplicaciones de gestión de base de datos con interfaz gráfica de usuario, Java, Sql, aplicaciones móviles Android, cloud computing, etc...
+- Producción musical: grabación de audio y producción musical, varios discos publicados en más de 25 años de experiencia.  
